@@ -1,2 +1,2 @@
 # LintCode
-LintCode答案
+LintCode刷题源码，不定时更新
