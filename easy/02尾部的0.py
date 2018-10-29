@@ -4,6 +4,9 @@
 
 class Solution:
     """
+     __|   _ \
+     _|    __/    __ \    __ \
+          _ \_  \____/  \____/
     设计一个算法，计算出n阶乘中尾部零的个数
     Write an algorithm which computes the number of trailing zeros in n factorial.
     样例

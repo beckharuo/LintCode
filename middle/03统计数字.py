@@ -4,6 +4,9 @@
 
 class Solution:
     """
+     __|   _ \
+     _|    __/    __ \    __ \
+          _ \_  \____/  \____/
     计算数字k在0到n中的出现的次数，k可能是0~9的一个值
     Count the number of k's between 0 and n. k can be 0 - 9.
     样例
